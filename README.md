@@ -61,7 +61,7 @@ else {
 if (a<b){
   console.log("do this")
 }
-else if {
+else if (a>b) {
   console.log("else do this")
 }
 else {
